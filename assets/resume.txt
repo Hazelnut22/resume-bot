@@ -1,142 +1,107 @@
-John Doe
-Software Engineer
-📍 123 Tech Street, San Francisco, CA 94107
-☎️ (123) 456-7890
-✉️ john.doe@email.com
-LinkedIn | GitHub
-Visa Status: Full working rights in the US without Visa sponsorship
+Hsu Thansin Khine
 
-Professional Summary
-Innovative and results-driven Software Engineer with 5+ years of experience in developing and delivering high-quality web and mobile applications. Adept at full-stack development, cloud computing, and DevOps practices, with a proven ability to lead cross-functional teams in Agile environments. Passionate about building scalable and efficient solutions that solve real-world problems and enhance user experiences. Recognized for excellent problem-solving skills and a commitment to continuous learning.
+IT Student
 
-Technical Skills
+Contact:
 
-    Programming Languages: Python, JavaScript, TypeScript, Java, C++, SQL, Go
+© No.5, Thiri Street, Sanchaung
+Township, Yangon, Myanmar
 
-    Frameworks & Libraries: React, Angular, Node.js, Express.js, Django, Flask, Spring Boot
+& mariahsu88@gmail.com
 
-    DevOps & Cloud: AWS (EC2, S3, Lambda, RDS), Azure, Docker, Kubernetes, Terraform, CI/CD pipelines
+&  (+95)9250818072
 
-    Databases: MySQL, PostgreSQL, MongoDB, Redis
+Social skills:
+  Strong analytical and problem-solving
+skills
 
-    Tools & Platforms: Git, JIRA, Jenkins, VS Code, IntelliJ IDEA, Elasticsearch, Prometheus
+  Team working skills
 
-Professional Experience
+  Excellent memorizer
 
-Senior Software Engineer
-NextGen Tech Solutions — San Francisco, CA
-March 2022 – Present
+  Critical thinking skills
 
-    Architected and developed scalable microservices, improving application performance by 40%.
+  Quick learner and open mindset
 
-    Designed and implemented GraphQL APIs to enhance data query efficiency and flexibility.
+Technology skills:
 
-    Migrated on-premises applications to AWS, leveraging cloud-native solutions to reduce operational costs by 25%.
+  Mathematics skills
 
-    Led a team of five developers to successfully deliver a cross-platform mobile application for a high-profile client.
+  Programming and Scripting languages
+(Python, HTML, CSS, JavaScript, Java)
 
-    Conducted technical interviews and mentored junior engineers to foster team growth.
+  Proficient in computer skills
 
-Key Achievements:
+  Microsoft office skills (Powerpoint,
+Word, Excel)
 
-    Reduced system downtime by implementing proactive monitoring tools and incident response workflows.
+Certifications:
+  Samsung Innovation Campus Al
+Intensive Training Completion -
+August 2024
 
-    Received the "Innovator of the Year" award for introducing a predictive analytics feature that boosted customer retention.
+  GUSTO College Foundation
+Completion - January 2024
 
-Software Engineer
-Tech Innovations Inc. — San Francisco, CA
-March 2020 – February 2022
+  International General Certificate of
+Secondary Education - August 2023
 
-    Developed and maintained full-stack applications, enhancing system performance by 30%.
+Languages:
 
-    Integrated third-party APIs, including payment gateways and geolocation services, to expand application capabilities.
+  English (Reading, Writing,
+Listening and Speaking)
 
-    Led the migration of legacy systems to microservices, reducing deployment time by 40%.
+  Spanish (Writing, reading and
+vocabulary)
 
-    Collaborated with designers and product managers to deliver user-focused solutions.
+Professional Profile:
 
-Key Achievements:
+With the motto "Never stop learning," | always try to learn new
+things and leverage every opportunities for growth. Currently,
+finishing my first year of a Higher National Diploma in
+Computing at GUSTO College and will soon begin my second
+year, and will continue my study for BSc. in computer
+engineering. Driven by curiosity and a desire to make a
+difference, | am committed to personal and professional
+development in every step of my journey.
 
-    Spearheaded the creation of a real-time analytics dashboard, increasing user engagement by 25%.
+Education:
+— GUSTO College
+Higher National Certificate Candidate - November 2023
+to present
+(Level 4)
+— _ High School
+B.E.H.S No.2, Latha - June 2013 to Feb 2023
+(KG to Grade 10)
+All Star Education, Sanchaung - July 2021 to May 2023
+(IGCSE)
+Academic Achievements
+e Recipient of the Pearson Excellence award
+-Awarded the Pearson Excellence Award for
+exceptional in 5 subjects
 
-    Named "Employee of the Quarter" for exceptional contributions to critical project launches.
+Personal experiences:
 
-Junior Software Developer
-Innovate Solutions — Palo Alto, CA
-July 2018 – February 2020
+Plant Vision Al Project | June 2024 - August 2024
+Understand the basic of Al technology
 
-    Assisted in developing responsive web applications using React and Node.js.
+Designed and implemented the android application using
+Flutter
 
-    Conducted code reviews and implemented unit testing frameworks, reducing bugs by 20%.
+Participated in the Al Hackathon
 
-    Optimized database queries and contributed to schema design for improved performance.
+Teaching Assistant for Mathematics and English | July
+2023 - Present
 
-Key Achievements:
+Guided a few students and helped them understand logic
+and thinking skills of Primary and Secondary Mathematics,
+grammar and sentence structure of English language
+Correcting and marking answers
 
-    Reduced system downtime by 15% through proactive monitoring and efficient issue resolution.
+Working with Adobe Photoshop | August 2023 - November
+2023
 
-Education
-Bachelor of Science in Computer Science
-University of California, Berkeley — Graduated: May 2018
+Familiar with photoshop tools
 
-    Relevant Coursework: Data Structures & Algorithms, Software Engineering, Cloud Computing, Artificial Intelligence
-
-    GPA: 3.8
-
-Certifications
-
-    AWS Certified Solutions Architect – Associate
-
-    Certified Kubernetes Administrator (CKA)
-
-    React.js Developer Certification
-
-    Advanced Java Programming Certification
-
-Projects
-
-    E-Commerce Platform (GitHub)
-    Built a full-stack e-commerce website featuring real-time product filtering, user authentication, and payment integration.
-
-    Task Management App (GitHub)
-    Developed a collaborative task management app with React front-end and Node.js back-end.
-
-    Real-Time Chat Application
-    Designed a secure and scalable chat application using WebSocket and Firebase, enabling real-time communication for users.
-
-    IoT Home Automation System
-    Created an IoT-based system to monitor and control home appliances using Python and Raspberry Pi.
-
-Languages
-
-    English: Native
-
-    Spanish: Proficient
-
-    French: Intermediate
-
-    Mandarin: Beginner
-
-Hobbies & Interests
-
-    Contributing to open-source projects
-
-    Exploring AI and machine learning innovations
-
-    Mentoring aspiring developers
-
-    Hiking and outdoor photography
-
-    Playing chess and participating in local tournaments
-
-Awards & Recognitions
-
-    Innovator of the Year – NextGen Tech Solutions (2023)
-
-    Employee of the Quarter – Tech Innovations Inc. (2021)
-
-    Winner – Bay Area Hackathon (2019): Created a predictive analytics tool for the healthcare industry.
-
-    Dean’s Honor List – University of California, Berkeley (2017 & 2018)
-
+Drew a pamphlet design for Burger shop
 
